@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="SpaceY" src=".github/cover.jpg">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=0B1E8A&labelColor=E85937" alt="License">
+  
+  <img src="https://img.shields.io/github/forks/ericksiqueiraa/space-y?label=forks&message=MIT&color=0B1E8A&labelColor=E85937" alt="Forks">
 
-## Available Scripts
+  <img src="https://img.shields.io/github/stars/ericksiqueiraa/space-y?label=stars&message=MIT&color=0B1E8A&labelColor=E85937" alt="Stars">
+</p>
 
-In the project directory, you can run:
+# Desktop
+<h1 align="center">
+<img alt="Preview Desktop" title="Preview Desktop" src=".github/interface-desktop.jpg" />
+</h1>
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Mobile
+<h1 align="center">
+<img alt="Preview Mobile" title="Preview Mobile" src=".github/interface-mobile.jpg" />
+</h1>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
+## 🧪 Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project was developed using the following technologies:
 
-### `npm run build`
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Getting started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone the project and access the folder.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/ericksiqueiraa/space-y
 
-### `npm run eject`
+cd space-y
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Run this command to install the dependencies.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npx install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npx start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔖 Layout
 
-## Learn More
+You can view the project through the links below:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Live Preview](#)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Figma](https://www.figma.com/proto/DJgWCvUK2Mn2j5IE0EjlF8/SpaceY---Figmentor-(Community)?node-id=45%3A649/duplicate)
 
-### Code Splitting
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📝 License
 
-### Analyzing the Bundle Size
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with 💜 by [ericksiqueiraa](https://github.com/ericksiqueiraa) 👋

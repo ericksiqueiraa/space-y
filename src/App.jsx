@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 import Btn from "./components/button/index";
 import Header from "./components/header/index";
